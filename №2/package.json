@@ -1,0 +1,15 @@
+{
+  "name": "task_from_interviews2",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "snake.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "GrossWhiteRabbit",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-plugin-react": "^7.21.4"
+  }
+}
